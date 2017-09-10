@@ -1,10 +1,10 @@
 # People
 
 - travellers
-  trav_name: John F.Doe
-  trav_id: jfd
-  trav_email: jfd@mail.example
+  trav_name: Jane S.Doe
+  trav_id: jsd
+  trav_email: jsd@mail.example
   trav_server: cal.host.example
-  trav_user: jfd
+  trav_user: jsd
   trav_pass: password
   trav_uuid:

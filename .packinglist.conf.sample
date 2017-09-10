@@ -1,0 +1,15 @@
+# Configfile for packaging list
+# Formated in yaml
+
+# Paths
+itemspath: ~/.packaginglist/items
+tripspath: ~/.packaginglist/trips
+travellerspath: ~/.packaginglist/travellers
+
+# offset for items relative to the begin of the journey
+# default is item_offset1
+item_offset0=0
+item_offset1=7
+item_offset2=14
+item_offset3=30
+item_offset4=-7

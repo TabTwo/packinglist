@@ -1,0 +1,11 @@
+# things that go in your luggage
+
+items:
+  - item_name: pair of socks
+    item_per_day: 1
+    item_per_trip: 0
+    item_uuid:
+  - item_name: blower
+    item_per_day: 0
+    item_per_trip: 1
+    item_uuid:
