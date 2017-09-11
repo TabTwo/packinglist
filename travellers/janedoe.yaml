@@ -1,10 +1,10 @@
 # People
 
-- travellers
+- travellers:
   trav_name: Jane S.Doe
   trav_id: jsd
   trav_email: jsd@mail.example
   trav_server: cal.host.example
   trav_user: jsd
   trav_pass: password
-  trav_uuid:
+  trav_uuid: d055b2fd-a484-486b-b14b-68acc84ffb2d

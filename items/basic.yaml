@@ -1,11 +1,11 @@
 # things that go in your luggage
 
-items:
+trip_basic:
   - item_name: pair of socks
     item_per_day: 1
     item_per_trip: 0
-    item_uuid:
+    item_uuid: d055b2fd-a484-486b-b14b-68acc84ffb2a
   - item_name: blower
     item_per_day: 0
     item_per_trip: 1
-    item_uuid:
+    item_uuid: d055b2fd-a484-486b-b14b-68acc84ffb2b

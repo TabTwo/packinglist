@@ -1,8 +1,8 @@
 # things that go in your luggage
 
-items:
+trip_business:
   - item_name: file business expenses
     item_per_day: 0
     item_per_trip: 1
-    item_uuid:
+    item_uuid: d055b2fd-a484-486b-b14b-68acc84ffb2c
     offset: item_offset4

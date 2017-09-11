@@ -1,0 +1,11 @@
+# Everything about your trip goes here
+
+trips:
+  - trip_id: 33c3
+    trip_dest: Hamburg
+    trip_start: 2016-12-25
+    trip_end: 2016-12-30
+    trip_url: https://www.ccc.de
+    trip_participants: [jfd, jsd ]
+    trip_items: [basic, business]
+    trip_uuid: cb311071-b67a-4734-9b95-f77748f9466b
